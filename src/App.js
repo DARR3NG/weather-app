@@ -24,7 +24,7 @@ const App = () => {
           onPlaceChangedCallback={handlePlaceChanged}
           searchInputRef={searchInputRef}
         />
-        <h2>ojihguuftty</h2>
+       
         <div
           style={{
             display: "flex",
