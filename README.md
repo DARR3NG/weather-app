@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flutter Weather App Example
 
 An example Flutter weather app using the [OpenWeatherMap API](https://openweathermap.org/api).
@@ -85,3 +86,6 @@ The app shows data from the following endpoints:
 **Note**: to use the API you'll need to register an account and obtain your own API key. This can be set via `--dart-define` or inside `lib/src/api/api_keys.dart`.
 
 ### [LICENSE: MIT](LICENSE.md)
+=======
+# weather-app
+>>>>>>> origin/touzani-branch
