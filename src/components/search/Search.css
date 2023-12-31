@@ -1,0 +1,18 @@
+/* File: Search.css */
+/* Custom styles for the Search component */
+
+.custom-search {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #333;
+    outline: none;
+    transition: border-color 0.3s ease-in-out;
+    text-align: center;
+  }
+  
+  .custom-search:focus {
+    border-color: #2196f3;
+  }
+  
