@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Flutter Weather App Example
 
 An example Flutter weather app using the [OpenWeatherMap API](https://openweathermap.org/api).
